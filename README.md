@@ -10,4 +10,4 @@ the site it is important to have the same quality of the site as per requirement
 
 61f2865d-0971-4563-b158-5a0682e0b1f5.png
 
-![Image alt](https://annaelecconte/F_P_California_Marketing/blob/main/61f2865d-0971-4563-b158-5a0682e0b1f5.png)
+![Image alt](https:/annaelecconte/F_P_California_Marketing/blob/main/61f2865d-0971-4563-b158-5a0682e0b1f5.png)
