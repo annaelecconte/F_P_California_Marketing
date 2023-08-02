@@ -19,8 +19,15 @@ Customers want a perfect website, which passes the full cycle of manual testing.
 the site it is important to have the same quality of the site as per requirements.
 
 2. SCOPE
-The document mainly targets the GUI testing, positive and negative testing, and validating data in report
-output as per Requirements Specifications provided by Client.
+The document mainly targets the GUI testing and validating data in report output as per
+Requirements Specifications provided by Client.
+2.1 Functions to be tested:
+
+● GUI
+● Search and Filters Logic
+● Performance
+2.2 Functions not to be tested.
+2.3. Not other than mentioned above in section 2.1.
 
 3. QUALITY OBJECTIVES
 A primary objective of testing is to: assure that the system meets the full requirements, including quality
