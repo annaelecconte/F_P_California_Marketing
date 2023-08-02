@@ -8,4 +8,8 @@ Table of Contents:
 5. Entry And Exit Criteria
 6. Suspension Criteria And Resumption Requirements
 7. Test Strategy
-8. Resource And Environment Needs
+8. Resource And Environment Needs    
+
+   1. Introduction
+      target
+This test plan document for https://qasvus.wixsite.com/ca-marketing/
