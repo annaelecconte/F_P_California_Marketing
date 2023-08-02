@@ -36,3 +36,20 @@ Guidance documents must be loaded.
 
 
 Test execution: ANNA NOSOVA 8/1/2023
+
+
+
+
+Script 2: Check the functionality for negative testing
+Script Description
+The user wants to buy “Product 1”
+Setup
+Guidance document must be loaded
+Script Steps
+
+
+![Image alt](https://github.com/annaelecconte/F_P_California_Marketing/blob/main/Screenshot%202023-08-02%20at%2016.33.46%20-%20Edited.png)
+
+
+
+
