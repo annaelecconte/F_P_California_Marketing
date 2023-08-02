@@ -29,4 +29,10 @@ Setup
 Guidance documents must be loaded.
 
 ![Image alt](https://github.com/annaelecconte/F_P_California_Marketing/blob/main/61f2865d-0971-4563-b158-5a0682e0b1f5.png)
+
+
+
+
+
+
 Test execution: ANNA NOSOVA 8/1/2023
